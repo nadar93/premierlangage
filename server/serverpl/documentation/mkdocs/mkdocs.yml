@@ -1,0 +1,22 @@
+site_name: Premier Langage
+site_author: Q. Coumes, D. Revuz
+
+
+pages:
+- Home: 'index.md'
+- Ecrire un exercice:
+    - 'Bases': 'ecrire_pl.md'
+    - 'Ecrire un formulaire': 'formulaire.md'
+    - 'Ecrire un script d''évaluation': 'evaluator.md'
+    - 'Ecrire un script build': 'build.md'
+- Parseur:
+    - 'Ecrire un parseur': 'parser.md'
+    - 'Exceptions prédéfinies': 'parser_exception.md'
+    - 'Exemple': 'parser_exemple.md'
+
+
+theme:
+    name: null
+    custom_dir: 'custom'
+
+site_dir: ../templates/documentation/doc

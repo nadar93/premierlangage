@@ -1,0 +1,28 @@
+wheel
+celery
+django
+django-celery-results
+django-markdown-deux
+dj-database-url
+gitpython
+gunicorn
+jinja2
+jsonfield
+markdown
+mkdocs
+mock
+oauth2
+psycopg2
+pytest
+pytest-django
+pytest-selenium
+python-magic
+pytz
+recommonmark
+requests
+sphinx
+sympy
+whitenoise
+yattag
+-e git://github.com/qcoumes/timeout-decorator.git#egg=timeout-decorator
+-e git://github.com/qcoumes/django-enumfields.git#egg=django-enumfields
